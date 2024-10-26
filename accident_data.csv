@@ -1,0 +1,5 @@
+﻿Accident Severity,Speed Limit,Weather Conditions,Road Type,Time of Day,Driver Age,No of Vehicles Involved
+minor,180,sunny,highway,11,40,2
+moderate,200,sunny,citystreet,4,27,5
+severe,150,rainy,highway,2,30,3
+fatal,100,foggy,rural road,5,38,2
